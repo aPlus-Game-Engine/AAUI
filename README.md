@@ -10,4 +10,4 @@
 
 ## AAUI
 
-> A JavaScript UI Renderer for Games. Like a double-A battery, AA2D just works! 
+> An HTML Canvas User-Interface Library; powerful as a double-A battery
